@@ -1,0 +1,22 @@
+{
+  "discord_moderation_bot": {
+    "README.md": "File",
+    "src": {
+      "bot.py": "File",
+      "command_system.py": "File",
+      "filter_system.py": "File",
+      "logger.py": "File",
+      "update_system.py": "File"
+    },
+    "config": {
+      "config.json": "File",
+      "filters.json": {
+        "profanity_filter": true,
+        "nsfw_filter": true,
+        "hate_speech_filter": true
+      }
+    },
+    "requirements.txt": "File",
+    "LICENSE": "File"
+  }
+}
