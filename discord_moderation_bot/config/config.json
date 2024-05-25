@@ -1,0 +1,11 @@
+{
+  "prefix": "!",
+  "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "mute_role": "Muted",
+  "log_channel_id": "YOUR_LOG_CHANNEL_ID_HERE",
+  "filter_list": [
+    "hate speech",
+    "NSFW",
+    "inappropriate content"
+  ]
+}
