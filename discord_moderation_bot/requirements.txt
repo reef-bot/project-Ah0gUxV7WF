@@ -1,0 +1,7 @@
+# discord_moderation_bot/requirements.txt
+
+discord.py==1.7.3
+requests==2.26.0
+asyncio==3.4.3
+json==3.2.0
+re==2.2.1
